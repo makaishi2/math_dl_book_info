@@ -2,7 +2,7 @@
 
 当サイトは、書籍「最短コースでわかる ディープラーニングの数学」用の補足情報公開用のサイトとなります。
 
-[サンプルNotebook](notebook.md)
+[サンプルNotebooks](notebooks.md)
 
 Notebook補足情報
 
