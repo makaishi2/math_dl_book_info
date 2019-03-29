@@ -16,5 +16,5 @@
 |9章 | [ch09-x-numpy.ipynb](notebooks/ch09-x-numpy.ipynb) |NumPy解説用 |
 |10章 | [ch10-deeplearning.ipynb](notebooks/ch10-deeplearning.ipynb) | |
 |11章 | [ch11-keras.ipynb](notebooks/ch11-keras.ipynb) | |
-|11章 | [ch11-keras-mac.ipynb](notebooks/ch11-keras.ipynb) |Mac用 |
+|11章 | [ch11-keras-mac.ipynb](notebooks/ch11-keras-mac.ipynb) |Mac用 |
 
