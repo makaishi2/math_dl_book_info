@@ -15,5 +15,6 @@
 |9章 | [ch09-multi-classify-studio.ipynb](notebooks/ch09-multi-classify-studio.ipynb) |Watson Studio用 |
 |9章 | [ch09-x-numpy.ipynb](notebooks/ch09-x-numpy.ipynb) |NumPy解説用 |
 |10章 | [ch10-deeplearning.ipynb](notebooks/ch10-deeplearning.ipynb) | |
-|11章 | [ch11-keras.ipynb](notebooks/) | |
+|11章 | [ch11-keras.ipynb](notebooks/ch11-keras.ipynb) | |
+|11章 | [ch11-keras-mac.ipynb](notebooks/ch11-keras.ipynb) |Mac用 |
 
