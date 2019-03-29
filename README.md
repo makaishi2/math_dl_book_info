@@ -2,12 +2,12 @@
 
 当サイトは、書籍「最短コースでわかる ディープラーニングの数学」用の補足情報公開用のサイトとなります。
 
-[サンプルNotebooks](notebooks.md)
+[Notebookファイル](notebooks.md)
 
-Notebook補足情報
+[Notebook補足情報](notebook-ref.md)
 
-正誤訂正
+[正誤訂正](errors.md)
 
-FAQ
+[FAQ](faqs.md)
 
 
