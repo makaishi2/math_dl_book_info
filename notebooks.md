@@ -12,6 +12,7 @@
 |7章 | [ch07-x-numpy.ipynb](notebooks/ch07-x-numpy.ipynb) | NumPy解説用|
 |8章 | [ch08-bi-classify.ipynb](notebooks/ch08-bi-classify.ipynb) | |
 |9章 | [ch09-multi-classify.ipynb](notebooks/ch09-multi-classify.ipynb) | |
+|9章 | [ch09-multi-classify-studio.ipynb](notebooks/ch09-multi-classify-studio.ipynb) |Watson Studio用 |
 |9章 | [ch09-x-numpy.ipynb](notebooks/ch09-x-numpy.ipynb) |NumPy解説用 |
 |10章 | [ch10-deeplearning.ipynb](notebooks/ch10-deeplearning.ipynb) | |
 |11章 | [ch11-keras.ipynb](notebooks/) | |
