@@ -16,6 +16,3 @@
 
 ***
 
-![綴じ込み](images/tojikomi.png)
-
-
