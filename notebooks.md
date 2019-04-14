@@ -18,3 +18,21 @@
 |11章 | [ch11-keras.ipynb](notebooks/ch11-keras.ipynb) | |
 |11章 | [ch11-keras-mac.ipynb](notebooks/ch11-keras-mac.ipynb) |Mac用 |
 
+---
+
+## Notebook ダウンロード方法
+gitコマンドを使う方法や、個別のnotebookファイル単位でダウンロードする方法もありますが、下記の手順で全てまとめてダウンロードするのが一番簡単です。
+
+![手順1](images/download1.png)
+
+(1) 当ページ上部の「math_dl_book_info」のリンクをクリックします。
+
+![手順2](images/download2.png)
+
+(2) 上の画面になったら、右上の「Cloen or download」のボタンをクリック。
+
+![手順3](images/download3.png)
+
+(3) 上のダイアログが表示されたら、「Download ZIP」をクリックします。
+
+
