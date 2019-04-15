@@ -16,3 +16,4 @@
 
 ***
 
+[Amazonへのリンク](https://www.amazon.co.jp/dp/4296102508/)
