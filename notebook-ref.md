@@ -1,11 +1,19 @@
 # Notebook補足情報
 
 ## 動作確認済み環境情報
-2019年3月時点で、Notebookの動作確認は以下の環境で行っています。
+2019年4月時点で、Notebookの動作確認は以下の環境で行っています。
+
+- Anaconda 2018.12 for Windows
+- ANaconda 2018.12 for Mac
+- Watson Studio
+- Google Colaboratory
+
+Google Colaboratoryで利用するための手順に関しては、qiitaに記事 [書籍「ディープラーニングの数学」のNotebookをGoogle Colaboratoryで動かす](https://qiita.com/makaishi2/items/8a7f530ad9b18b1f0b61) を記載しましたので、こちらを参照されて下さい。
 
 ### Windows / MAC
 Anaconda 2018.12 for Windows(Mac) Installer  
-ライブラリ別のバージョンは以下の通りとなっています。
+ライブラリ別のバージョンは以下の通りとなっています。  
+(2018-03時点)
 
 ```
 python 3.7.1
@@ -18,17 +26,33 @@ Jupyter 4.4.0
 ```
 
 ### Watson Studio
-ライブラリ別のバージョンは以下の通りとなっています。
+ライブラリ別のバージョンは以下の通りとなっています。  
+(2018-03時点)
 
 ```
 python 3.5.5
 numpy 1.13.3
 pandas 0.21.0
-patplotlib 2.1.0
+matplotlib 2.1.0
 scipy 1.0.0
 scikit-learn 0.19.1
 Jupyter 4.3.0
 ```
+
+### Google Colaboratory
+ライブラリ別のバージョンは以下の通りとなっています。  
+(2018-05時点)
+
+```
+python 3.6.7
+numpy 1.16.3
+pandas 0.24.2
+matplotlib 3.0.3
+scipy 1.2.1
+scikit-learn 0.20.3
+Jupyter 4.4.0
+```
+
 
 ## 11章のNotebookを動かすための追加手順
 　本書p.309に記載したとおり、Anacondaデフォルト環境にKerasのライブラリは導入されていないため11章付属のサンプルコードは稼働しません（Watson Studioでは稼働します）。  
