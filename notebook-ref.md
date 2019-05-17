@@ -4,7 +4,7 @@
 2019年4月時点で、Notebookの動作確認は以下の環境で行っています。
 
 - Anaconda 2018.12 for Windows
-- ANaconda 2018.12 for Mac
+- Anaconda 2018.12 for Mac
 - Watson Studio
 - Google Colaboratory
 
