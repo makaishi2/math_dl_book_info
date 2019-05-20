@@ -18,4 +18,10 @@
 
 
 ***
+### リンク集
 
+[(日経XTECH 記者の目) ディープラーニングは最低限の数学で分かる](https://tech.nikkeibp.co.jp/atcl/nxt/column/18/00138/041400268/)  
+  
+[(からあげ様ブログ) GW中に「ディープラーニングの数学」と「身近な数学」と「Google Colaboratory（Python）」でじっくり数学を復習しました](https://karaage.hatenadiary.jp/entry/2019/05/08/073000)  
+  
+[(筆者qiita記事) 書籍「ディープラーニングの数学」のNotebookをGoogle Colaboratoryで動かす](https://qiita.com/makaishi2/items/8a7f530ad9b18b1f0b61)
