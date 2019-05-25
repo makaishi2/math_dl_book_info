@@ -1,6 +1,6 @@
 # 書籍「最短コースでわかる ディープラーニングの数学」補足情報
 
-![表紙](images/hyoshi.png) ![fig04-04](images/fig04-04.png)
+![表紙](images/hyoshi.png)![fig04-04](images/fig04-04.png) ![fig09-22](images/fig09-22.png)
   
 [Amazonへのリンク](https://www.amazon.co.jp/dp/4296102508/)
 
