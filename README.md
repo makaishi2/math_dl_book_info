@@ -25,3 +25,18 @@
 (からあげ様ブログ) [GW中に「ディープラーニングの数学」と「身近な数学」と「Google Colaboratory（Python）」でじっくり数学を復習しました](https://karaage.hatenadiary.jp/entry/2019/05/08/073000)  
   
 (筆者qiita記事) [書籍「ディープラーニングの数学」のNotebookをGoogle Colaboratoryで動かす](https://qiita.com/makaishi2/items/8a7f530ad9b18b1f0b61)
+
+***
+### アニメーション集
+
+#### 2章　微分
+
+![](images/diff.gif)
+
+#### 4章　勾配降下法
+
+![](images/gradient-descent.gif)
+
+#### 5章 対数関数の微分とネイピア数
+
+![](images/log-animation.gif)
