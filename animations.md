@@ -19,3 +19,5 @@ a(alpha)の値がちょうど2.7ぐらいの時に、二つの線が (x, y) = (1
 
 
 ![](images/log-animation.gif)
+
+[メインページに戻る](./README.md)
