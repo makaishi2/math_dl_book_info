@@ -26,6 +26,10 @@
   
 (筆者qiita記事) [書籍「ディープラーニングの数学」のNotebookをGoogle Colaboratoryで動かす](https://qiita.com/makaishi2/items/8a7f530ad9b18b1f0b61)
 
+(Amazon書評) [Amazonレビュー] (https://www.amazon.co.jp/product-reviews/4296102508/ref=acr_dpproductdetail_text?ie=UTF8&showViewpoints=1) 
+
+(ハイブリッド型総合書店 honto書評) [hontoレビュー] (https://honto.jp/netstore/pd-review_0629564342_191.html)
+
 ***
 ### アニメーション集
 
