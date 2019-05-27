@@ -16,6 +16,8 @@
 
 * [FAQ](faqs.md)
 
+* [アニメーション集](animations.md)
+
 
 ***
 ### リンク集
@@ -31,16 +33,3 @@
 (ハイブリッド型総合書店 honto) [hontoレビュー](https://honto.jp/netstore/pd-review_0629564342_191.html)
 
 ***
-### アニメーション集
-
-#### 2章　微分
-
-![](images/diff.gif)
-
-#### 4章　勾配降下法
-
-![](images/gradient-descent.gif)
-
-#### 5章 対数関数の微分とネイピア数
-
-![](images/log-animation.gif)
