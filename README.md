@@ -26,10 +26,13 @@
   
 (からあげ様ブログ) [GW中に「ディープラーニングの数学」と「身近な数学」と「Google Colaboratory（Python）」でじっくり数学を復習しました](https://karaage.hatenadiary.jp/entry/2019/05/08/073000)  
   
-(筆者qiita記事) [書籍「ディープラーニングの数学」のNotebookをGoogle Colaboratoryで動かす](https://qiita.com/makaishi2/items/8a7f530ad9b18b1f0b61)
-
 (Amazon) [Amazonレビュー](https://www.amazon.co.jp/product-reviews/4296102508/ref=acr_dpproductdetail_text?ie=UTF8&showViewpoints=1) 
 
 (ハイブリッド型総合書店 honto) [hontoレビュー](https://honto.jp/netstore/pd-review_0629564342_191.html)
+
+(著者twitterアカウント) [@makaishi2](https://twitter.com/makaishi2)  
+(注)著者は原則twitterではつぶやきませんが、書籍に関連したつぶやきをretweetで紹介しています  
+
+(筆者qiita記事) [書籍「ディープラーニングの数学」のNotebookをGoogle Colaboratoryで動かす](https://qiita.com/makaishi2/items/8a7f530ad9b18b1f0b61)
 
 ***
