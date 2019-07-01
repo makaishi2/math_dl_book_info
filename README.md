@@ -34,6 +34,8 @@
   
 (Yusuke Otomo様ブログ) [AWS Certified Machine Learning – Specialty に合格してきました](https://yomon.hatenablog.com/entry/2019/05/awscertml)
 
+(カオカオ様ブログ) [G検定の勉強法](https://www.kaookaoo.com/gteststudymethod/)
+
 (著者twitterアカウント) [@makaishi2](https://twitter.com/makaishi2)  
 (注)著者は原則twitterではつぶやきませんが、書籍に関連したつぶやきをretweetで紹介しています  
 
