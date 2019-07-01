@@ -22,13 +22,17 @@
 ***
 ### リンク集
 
-(日経XTECH 記者の目) [ディープラーニングは最低限の数学で分かる](https://tech.nikkeibp.co.jp/atcl/nxt/column/18/00138/041400268/)  
-  
-(からあげ様ブログ) [GW中に「ディープラーニングの数学」と「身近な数学」と「Google Colaboratory（Python）」でじっくり数学を復習しました](https://karaage.hatenadiary.jp/entry/2019/05/08/073000)  
-  
 (Amazon) [Amazonレビュー](https://www.amazon.co.jp/product-reviews/4296102508/ref=acr_dpproductdetail_text?ie=UTF8&showViewpoints=1) 
 
 (ハイブリッド型総合書店 honto) [hontoレビュー](https://honto.jp/netstore/pd-review_0629564342_191.html)
+
+(日経XTECH 記者の目) [ディープラーニングは最低限の数学で分かる](https://tech.nikkeibp.co.jp/atcl/nxt/column/18/00138/041400268/)  
+
+(日経XTECH 連載記事) [機械学習のための数学入門](https://tech.nikkeibp.co.jp/atcl/nxt/column/18/00816/)
+  
+(からあげ様ブログ) [GW中に「ディープラーニングの数学」と「身近な数学」と「Google Colaboratory（Python）」でじっくり数学を復習しました](https://karaage.hatenadiary.jp/entry/2019/05/08/073000)  
+  
+(Yusuke Otomo様ブログ) [AWS Certified Machine Learning – Specialty に合格してきました](https://yomon.hatenablog.com/entry/2019/05/awscertml)
 
 (著者twitterアカウント) [@makaishi2](https://twitter.com/makaishi2)  
 (注)著者は原則twitterではつぶやきませんが、書籍に関連したつぶやきをretweetで紹介しています  
