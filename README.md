@@ -36,6 +36,8 @@
 
 (カオカオ様ブログ) [G検定の勉強法](https://www.kaookaoo.com/gteststudymethod/)
 
+(orangeitems様ブログ) [機械学習・ディープラーニングの学習を入門レベルで挫折しないために](https://www.orangeitems.com/entry/2019/07/30/174944)
+
 (著者twitterアカウント) [@makaishi2](https://twitter.com/makaishi2)  
 (注)著者は原則twitterではつぶやきませんが、書籍に関連したつぶやきをretweetで紹介しています  
 
