@@ -29,6 +29,8 @@ Notebookファイルのダウンロードをしたい場合は、「**Notebook�
 
 (ハイブリッド型総合書店 honto) [hontoレビュー](https://honto.jp/netstore/pd-review_0629564342_191.html)
 
+(読書メーター) [読書メーターレビュー](https://bookmeter.com/books/13706684)
+
 (日経XTECH 記者の目) [ディープラーニングは最低限の数学で分かる](https://tech.nikkeibp.co.jp/atcl/nxt/column/18/00138/041400268/)  
 
 (日経XTECH 連載記事) [機械学習のための数学入門](https://tech.nikkeibp.co.jp/atcl/nxt/column/18/00816/)
