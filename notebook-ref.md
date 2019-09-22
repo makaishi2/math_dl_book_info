@@ -13,7 +13,7 @@ Google Colaboratoryで利用するための手順に関しては、qiitaに記�
 ### Windows / MAC
 Anaconda 2018.12 for Windows(Mac) Installer  
 ライブラリ別のバージョンは以下の通りとなっています。  
-(2018-03時点)
+(2019-03時点)
 
 ```
 python 3.7.1
@@ -27,21 +27,21 @@ Jupyter 4.4.0
 
 ### Watson Studio
 ライブラリ別のバージョンは以下の通りとなっています。  
-(2018-03時点)
+(2019-09時点)
 
 ```
-python 3.5.5
-numpy 1.13.3
-pandas 0.21.0
-matplotlib 2.1.0
-scipy 1.0.0
-scikit-learn 0.19.1
-Jupyter 4.3.0
+python 3.6.8
+numpy 1.15.4
+pandas 0.24.1
+matplotlib 3.0.2
+scipy 1.2.0
+scikit-learn 0.20.3
+Jupyter 4.4.0
 ```
 
 ### Google Colaboratory
 ライブラリ別のバージョンは以下の通りとなっています。  
-(2018-05時点)
+(2019-05時点)
 
 ```
 python 3.6.7
@@ -66,7 +66,6 @@ qiita記事
 
 |章|プラットフォーム|内容|対策|
 |---|---|---|---|
-|9|Watson Studio|9章用標準のnotebookが稼働しません。|ch09-multi-classify-studio.ipynbを利用してください。|
 |10|Watson Studio|学習にかなりの時間を要します。|学習自体はできるので結果が戻るまで待っていてください。|
 |11|Mac|環境によりグラフ描画ができない場合があります。|回避策用のコードを含めたnotbookファイルch11-keras-mac.ipynbを用意しました。必ずこちらを利用して、最初のセルのコードも実行するようにしてください。|
 
