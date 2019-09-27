@@ -43,6 +43,8 @@ Notebookファイルのダウンロードをしたい場合は、「**Notebook�
 
 (orangeitems様ブログ) [機械学習・ディープラーニングの学習を入門レベルで挫折しないために](https://www.orangeitems.com/entry/2019/07/30/174944)
 
+(アンドレアス様ブログ)[メチャクチャ丁寧に誘導説明してくれる本！最短コースでわかる ディープラーニングの数学、はまさかの丁寧さだった！](http://linuxcommand2007.seesaa.net/article/468487597.html)
+
 (著者twitterアカウント) [@makaishi2](https://twitter.com/makaishi2)  
 (注)著者は原則twitterではつぶやきませんが、書籍に関連したつぶやきをretweetで紹介しています  
 
