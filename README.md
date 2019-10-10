@@ -29,8 +29,6 @@ Notebookファイルのダウンロードをしたい場合は、「**Notebook�
 
 (ハイブリッド型総合書店 honto) [hontoレビュー](https://honto.jp/netstore/pd-review_0629564342_191.html)
 
-(読書メーター) [読書メーターレビュー](https://bookmeter.com/books/13706684)
-
 (日経XTECH 記者の目) [ディープラーニングは最低限の数学で分かる](https://tech.nikkeibp.co.jp/atcl/nxt/column/18/00138/041400268/)  
 
 (日経XTECH 連載記事) [機械学習のための数学入門](https://tech.nikkeibp.co.jp/atcl/nxt/column/18/00816/)
@@ -43,11 +41,12 @@ Notebookファイルのダウンロードをしたい場合は、「**Notebook�
 
 (orangeitems様ブログ) [機械学習・ディープラーニングの学習を入門レベルで挫折しないために](https://www.orangeitems.com/entry/2019/07/30/174944)
 
-(アンドレアス様ブログ)[メチャクチャ丁寧に誘導説明してくれる本！最短コースでわかる ディープラーニングの数学、はまさかの丁寧さだった！](http://linuxcommand2007.seesaa.net/article/468487597.html)
-
 (著者twitterアカウント) [@makaishi2](https://twitter.com/makaishi2)  
 (注)著者は原則twitterではつぶやきませんが、書籍に関連したつぶやきをretweetで紹介しています  
 
 (筆者qiita記事) [書籍「ディープラーニングの数学」のNotebookをGoogle Colaboratoryで動かす](https://qiita.com/makaishi2/items/8a7f530ad9b18b1f0b61)
+
+(著書プレゼン資料) [Pythonで理解するディープラーニング入門](https://speakerdeck.com/makaishi2/pythondeli-jie-surudeipuraninguru-men)  
+書籍ではあまり詳しく触れていないNumpy実装の解説があるので、書籍を購入された方も参考になると思います。
 
 ***
