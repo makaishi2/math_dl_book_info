@@ -27,6 +27,8 @@ Notebookファイルのダウンロードをしたい場合は、「**Notebook�
 
 (Amazon) [Amazonレビュー](https://www.amazon.co.jp/product-reviews/4296102508/ref=acr_dpproductdetail_text?ie=UTF8&showViewpoints=1) 
 
+(読書メーター) [読書メーター 感想・レビュー](https://bookmeter.com/books/13706684)
+
 (ハイブリッド型総合書店 honto) [hontoレビュー](https://honto.jp/netstore/pd-review_0629564342_191.html)
 
 (日経XTECH 記者の目) [ディープラーニングは最低限の数学で分かる](https://tech.nikkeibp.co.jp/atcl/nxt/column/18/00138/041400268/)  
