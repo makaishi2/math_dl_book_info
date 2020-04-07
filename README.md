@@ -36,6 +36,8 @@ Notebookファイルのダウンロードをしたい場合は、「**Notebook�
 (日経XTECH 連載記事) [機械学習のための数学入門](https://tech.nikkeibp.co.jp/atcl/nxt/column/18/00816/)
   
 (からあげ様ブログ) [GW中に「ディープラーニングの数学」と「身近な数学」と「Google Colaboratory（Python）」でじっくり数学を復習しました](https://karaage.hatenadiary.jp/entry/2019/05/08/073000)  
+
+(キカガク公式ブログ) [【2020年版】初学者にオススメの機械学習参考書3選〜数学基礎編〜](https://blog.kikagaku.co.jp/2020/04/06/ai_math_books/)
   
 (Yusuke Otomo様ブログ) [AWS Certified Machine Learning – Specialty に合格してきました](https://yomon.hatenablog.com/entry/2019/05/awscertml)
 
