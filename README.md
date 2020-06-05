@@ -4,6 +4,8 @@
   
 [Amazonへのリンク](https://www.amazon.co.jp/dp/4296102508/)
 
+### 好評につき続々海外版も出版中です!
+
 [韓国版](http://www.yes24.com/Product/Goods/89609761)
 
 [台湾版](http://www.eslite.com/product.aspx?pgid=1001113882844739)
