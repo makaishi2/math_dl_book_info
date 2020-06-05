@@ -4,6 +4,10 @@
   
 [Amazonへのリンク](https://www.amazon.co.jp/dp/4296102508/)
 
+[韓国版](http://www.yes24.com/Product/Goods/89609761)
+
+[台湾版](http://www.eslite.com/product.aspx?pgid=1001113882844739)
+
 ***
 
 当サイトは、書籍「最短コースでわかる ディープラーニングの数学」用の補足情報公開用のサイトとなります。  
