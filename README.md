@@ -4,6 +4,11 @@
   
 [Amazonへのリンク](https://www.amazon.co.jp/dp/4296102508/)
 
+### 日本ディープラーニング協会　合格者（CDLE）が選ぶ推薦書籍の17位に選ばれました！
+
+[日本ディープラーニング協会 推薦図書](https://www.jdla.org/recommendedbook/)
+
+
 ### 好評につき続々海外版も出版中です!
 
 [韓国版](http://www.yes24.com/Product/Goods/89609761)
