@@ -9,7 +9,7 @@
 [日本ディープラーニング協会 推薦図書](https://www.jdla.org/recommendedbook/)
 
 
-### 好評につき続々海外版も出版中です!
+### 好評につき続々海外版も出版中です！
 
 [韓国版](http://www.yes24.com/Product/Goods/89609761)
 
@@ -61,7 +61,7 @@ Notebookファイルのダウンロードをしたい場合は、「**Notebook�
 
 (筆者qiita記事) [書籍「ディープラーニングの数学」のNotebookをGoogle Colaboratoryで動かす](https://qiita.com/makaishi2/items/8a7f530ad9b18b1f0b61)
 
-(著者紹介記事) [AI関連書籍三冊目を出版したIBM赤石雅典に聞く「AIと仕事と執筆」](https://admin.blogs.prd.ibm.event.ibm.com/blogs/solutions/jp-ja/data_science_and_ai_akaishi-san/)  
+(著者紹介記事) [AI関連書籍三冊目を出版したIBM赤石雅典に聞く「AIと仕事と執筆」](https://www.ibm.com/blogs/solutions/jp-ja/data_science_and_ai_akaishi-san/)  
 勤務先のIBMのブログで紹介されました。
 
 (著書プレゼン資料) [Pythonで理解するディープラーニング入門](https://speakerdeck.com/makaishi2/pythondeli-jie-surudeipuraninguru-men)  
