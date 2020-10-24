@@ -36,35 +36,22 @@ Notebookファイルのダウンロードをしたい場合は、「**Notebook�
 ***
 ### リンク集
 
-(Amazon) [Amazonレビュー](https://www.amazon.co.jp/product-reviews/4296102508/ref=acr_dpproductdetail_text?ie=UTF8&showViewpoints=1) 
+|ソース  |タイトルとリンク  |補足|
+|---|---|---|
+|Amazon|[Amazonレビュー](https://www.amazon.co.jp/product-reviews/4296102508/)||
+|読書メーター|[読書メーター 感想・レビュー](https://bookmeter.com/books/13706684)||
+|ハイブリッド型総合書店 honto|[hontoレビュー](https://honto.jp/netstore/pd-review_0629564342_191.html)||
+|からあげ様ブログ|[GW中に「ディープラーニングの数学」と「身近な数学」と「Google Colaboratory（Python）」でじっくり数学を復習しました](https://karaage.hatenadiary.jp/entry/2019/05/08/073000)|AI関連で有名なブロガーである「からあげ」様による書評です。|
+|日経XTECH 記者の目|[ディープラーニングは最低限の数学で分かる](https://tech.nikkeibp.co.jp/atcl/nxt/column/18/00138/041400268/)||
+|日経XTECH 連載記事|[機械学習のための数学入門](https://tech.nikkeibp.co.jp/atcl/nxt/column/18/00816/)||
+|キカガク公式ブログ|[【2020年版】初学者にオススメの機械学習参考書3選〜数学基礎編〜](https://blog.kikagaku.co.jp/2020/04/06/ai_math_books/)||
+|Yusuke Otomo様ブログ|[AWS Certified Machine Learning – Specialty に合格してきました](https://yomon.hatenablog.com/entry/2019/05/awscertml)||
+|カオカオ様ブログ|[G検定の勉強法](https://www.kaookaoo.com/gteststudymethod/)||
+|orangeitems様ブログ|[機械学習・ディープラーニングの学習を入門レベルで挫折しないために](https://www.orangeitems.com/entry/2019/07/30/174944)||
+|twitter|[@makaishi2](https://twitter.com/makaishi2)|著者は原則twitterではつぶやきませんが、書籍に関連したつぶやきをretweetで紹介しています。|
+|IBM Blog|[AI関連書籍三冊目を出版したIBM赤石雅典に聞く「AIと仕事と執筆」](https://www.ibm.com/blogs/solutions/jp-ja/data_science_and_ai_akaishi-san/)|勤務先のIBMのブログに著者のインタビュー記事が紹介されています。|
+|著者qiita記事|[書籍「ディープラーニングの数学」のNotebookをGoogle Colaboratoryで動かす](https://qiita.com/makaishi2/items/8a7f530ad9b18b1f0b61)||
+|著書プレゼン資料|[Pythonで理解するディープラーニング入門](https://speakerdeck.com/makaishi2/pythondeli-jie-surudeipuraninguru-men) |書籍ではあまり詳しく触れていないNumpy実装の解説があるので、書籍を購入された方も参考になると思います。|
 
-(読書メーター) [読書メーター 感想・レビュー](https://bookmeter.com/books/13706684)
-
-(ハイブリッド型総合書店 honto) [hontoレビュー](https://honto.jp/netstore/pd-review_0629564342_191.html)
-
-(日経XTECH 記者の目) [ディープラーニングは最低限の数学で分かる](https://tech.nikkeibp.co.jp/atcl/nxt/column/18/00138/041400268/)  
-
-(日経XTECH 連載記事) [機械学習のための数学入門](https://tech.nikkeibp.co.jp/atcl/nxt/column/18/00816/)
-  
-(からあげ様ブログ) [GW中に「ディープラーニングの数学」と「身近な数学」と「Google Colaboratory（Python）」でじっくり数学を復習しました](https://karaage.hatenadiary.jp/entry/2019/05/08/073000)  
-
-(キカガク公式ブログ) [【2020年版】初学者にオススメの機械学習参考書3選〜数学基礎編〜](https://blog.kikagaku.co.jp/2020/04/06/ai_math_books/)
-  
-(Yusuke Otomo様ブログ) [AWS Certified Machine Learning – Specialty に合格してきました](https://yomon.hatenablog.com/entry/2019/05/awscertml)
-
-(カオカオ様ブログ) [G検定の勉強法](https://www.kaookaoo.com/gteststudymethod/)
-
-(orangeitems様ブログ) [機械学習・ディープラーニングの学習を入門レベルで挫折しないために](https://www.orangeitems.com/entry/2019/07/30/174944)
-
-(著者twitterアカウント) [@makaishi2](https://twitter.com/makaishi2)  
-(注)著者は原則twitterではつぶやきませんが、書籍に関連したつぶやきをretweetで紹介しています  
-
-(筆者qiita記事) [書籍「ディープラーニングの数学」のNotebookをGoogle Colaboratoryで動かす](https://qiita.com/makaishi2/items/8a7f530ad9b18b1f0b61)
-
-(著者紹介記事) [AI関連書籍三冊目を出版したIBM赤石雅典に聞く「AIと仕事と執筆」](https://www.ibm.com/blogs/solutions/jp-ja/data_science_and_ai_akaishi-san/)  
-勤務先のIBMのブログで紹介されました。
-
-(著書プレゼン資料) [Pythonで理解するディープラーニング入門](https://speakerdeck.com/makaishi2/pythondeli-jie-surudeipuraninguru-men)  
-書籍ではあまり詳しく触れていないNumpy実装の解説があるので、書籍を購入された方も参考になると思います。
 
 ***
