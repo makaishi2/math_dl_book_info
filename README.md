@@ -44,6 +44,8 @@ Notebookファイルのダウンロードをしたい場合は、「**Notebook�
 |からあげ様ブログ|[GW中に「ディープラーニングの数学」と「身近な数学」と「Google Colaboratory（Python）」でじっくり数学を復習しました](https://karaage.hatenadiary.jp/entry/2019/05/08/073000)|AI関連で有名なブロガーである「からあげ」様による書評です。|
 |日経XTECH 記者の目|[ディープラーニングは最低限の数学で分かる](https://tech.nikkeibp.co.jp/atcl/nxt/column/18/00138/041400268/)||
 |日経XTECH 連載記事|[機械学習のための数学入門](https://tech.nikkeibp.co.jp/atcl/nxt/column/18/00816/)||
+|はらでぃー白書|[AIの仕組みを数学的に知りたい方に！】『最短コースでわかるディープラーニングの数学』レビュー](https://harad-hakusyo.com/education/logic/deeplearningnosuugaku/)|「一見独立しているように見えるそれぞれの単元がつながったときの気持ちよさは、ミステリーの伏線回収さながらです！」とのコメントをいただいています。|
+|ITMedia|[機械学習／ディープラーニングの「数学」が学べるオススメ本](https://www.atmarkit.co.jp/ait/articles/2103/18/news023.html#utm_term=share_sp)|3冊のおすすめ本の筆頭にあげていただいています。|
 |キカガク公式ブログ|[【2020年版】初学者にオススメの機械学習参考書3選〜数学基礎編〜](https://blog.kikagaku.co.jp/2020/04/06/ai_math_books/)||
 |Yusuke Otomo様ブログ|[AWS Certified Machine Learning – Specialty に合格してきました](https://yomon.hatenablog.com/entry/2019/05/awscertml)||
 |カオカオ様ブログ|[G検定の勉強法](https://www.kaookaoo.com/gteststudymethod/)||
