@@ -26,15 +26,25 @@ Notebookファイルのダウンロードをしたい場合は、「**Notebook�
 
 * [Notebook補足情報](notebook-ref.md)
 
-* [正誤訂正](errors.md)
-
-* [FAQ](faqs.md)
-
 * [アニメーション集](animations.md)
 
 
 ***
-### リンク集
+
+### 著者による補足情報
+
+|ソース  |タイトルとリンク  |補足|
+|---|---|---|
+|プレゼン資料|[Pythonで理解するディープラーニング入門](https://speakerdeck.com/makaishi2/pythondeli-jie-surudeipuraninguru-men) |書籍ではあまり詳しく触れていないNumpy実装の解説があるので、実装コードの細かいところを知りたい読者は参考にして下さい。|
+|qiita記事|[書籍「ディープラーニングの数学」のNotebookをGoogle Colaboratoryで動かす](https://qiita.com/makaishi2/items/8a7f530ad9b18b1f0b61)|実習コードをGoogle Colabで動かすための手順です|
+|qiita記事|[「ディープラーニングの数学」９章補足　3値分類モデルの決定境界の表示](https://qiita.com/makaishi2/items/c8f6c2191529f9e1102c)|９章の例題で決定境界を表示するコードとその解説があります|
+|twitter|[@makaishi2](https://twitter.com/makaishi2)|書籍に関連したつぶやきをretweetで紹介しています。|
+|IBM Blog|[AI関連書籍三冊目を出版したIBM赤石雅典に聞く「AIと仕事と執筆」](https://www.ibm.com/blogs/solutions/jp-ja/data_science_and_ai_akaishi-san/)|旧勤務先のIBMのブログに著者のインタビュー記事が紹介されています。|
+
+
+
+
+### 外部リンク集
 
 |ソース  |タイトルとリンク  |補足|
 |---|---|---|
@@ -50,10 +60,12 @@ Notebookファイルのダウンロードをしたい場合は、「**Notebook�
 |Yusuke Otomo様ブログ|[AWS Certified Machine Learning – Specialty に合格してきました](https://yomon.hatenablog.com/entry/2019/05/awscertml)||
 |カオカオ様ブログ|[G検定の勉強法](https://www.kaookaoo.com/gteststudymethod/)||
 |orangeitems様ブログ|[機械学習・ディープラーニングの学習を入門レベルで挫折しないために](https://www.orangeitems.com/entry/2019/07/30/174944)||
-|twitter|[@makaishi2](https://twitter.com/makaishi2)|著者は原則twitterではつぶやきませんが、書籍に関連したつぶやきをretweetで紹介しています。|
-|IBM Blog|[AI関連書籍三冊目を出版したIBM赤石雅典に聞く「AIと仕事と執筆」](https://www.ibm.com/blogs/solutions/jp-ja/data_science_and_ai_akaishi-san/)|勤務先のIBMのブログに著者のインタビュー記事が紹介されています。|
-|著者qiita記事|[書籍「ディープラーニングの数学」のNotebookをGoogle Colaboratoryで動かす](https://qiita.com/makaishi2/items/8a7f530ad9b18b1f0b61)||
-|著書プレゼン資料|[Pythonで理解するディープラーニング入門](https://speakerdeck.com/makaishi2/pythondeli-jie-surudeipuraninguru-men) |書籍ではあまり詳しく触れていないNumpy実装の解説があるので、書籍を購入された方も参考になると思います。|
-
 
 ***
+
+* [正誤訂正](errors.md)
+
+* [FAQ](faqs.md)
+
+***
+
