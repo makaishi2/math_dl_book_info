@@ -77,12 +77,10 @@ Jupyter 4.4.0
 ```
 
 
-## 11章のNotebookを動かすための追加手順
+## 11章のNotebookを動かす方法について
 　本書p.309に記載したとおり、Anacondaデフォルト環境にKerasのライブラリは導入されていないため11章付属のサンプルコードは稼働しません（Watson Studio/Google Colaboratoryでは稼働します）。  
-　著者が確認した手順を以下のリンク先にアップしておきましたので参考とされて下さい。
-
-qiita記事  
-[Windows/MACのJupyter NotebookからKerasが使えるようにする](https://qiita.com/makaishi2/items/f8512c0c4828ddea51ca)
+　環境構築が難しいため、経験の少ない読者はGoogle Colabの利用をお勧めします。
+　また、筆者がMac M1で動作確認したNotebookはch11-keras-mac-m1.ipynbとしてアップしておきましたので、参考とされて下さい。
 
 ## Notebookプログラムの制限事項と対応策
 2019年3月28日時点で判明しているNotebookプログラムの制限事項と対応策は次の通りです。
@@ -90,6 +88,5 @@ qiita記事
 |章|プラットフォーム|内容|対策|
 |---|---|---|---|
 |10|Watson Studio|学習にかなりの時間を要します。|学習自体はできるので結果が戻るまで待っていてください。|
-|11|Mac|環境によりグラフ描画ができない場合があります。|回避策用のコードを含めたnotbookファイルch11-keras-mac.ipynbを用意しました。必ずこちらを利用して、最初のセルのコードも実行するようにしてください。|
 
 [メインページに戻る](./README.md)
