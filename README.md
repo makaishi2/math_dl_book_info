@@ -60,6 +60,7 @@ Notebookファイルのダウンロードをしたい場合は、「**Notebook�
 |Yusuke Otomo様ブログ|[AWS Certified Machine Learning – Specialty に合格してきました](https://yomon.hatenablog.com/entry/2019/05/awscertml)||
 |カオカオ様ブログ|[G検定の勉強法](https://www.kaookaoo.com/gteststudymethod/)||
 |orangeitems様ブログ|[機械学習・ディープラーニングの学習を入門レベルで挫折しないために](https://www.orangeitems.com/entry/2019/07/30/174944)||
+|LWのサイゼリヤ|[機械学習入門書籍レビュー](https://bit.ly/3H6XZvj)|最近見つけた書評。褒めてるかけなしているかギリギリの線ですが、こういう風に読んでいる人もいるということをご紹介しておきます。|
 
 ***
 
