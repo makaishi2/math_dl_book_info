@@ -38,7 +38,7 @@ Notebookファイルのダウンロードをしたい場合は、「**Notebook�
 |プレゼン資料|[Pythonで理解するディープラーニング入門](https://speakerdeck.com/makaishi2/pythondeli-jie-surudeipuraninguru-men) |書籍ではあまり詳しく触れていないNumpy実装の解説があるので、実装コードの細かいところを知りたい読者は参考にして下さい。|
 |qiita記事|[書籍「ディープラーニングの数学」のNotebookをGoogle Colaboratoryで動かす](https://qiita.com/makaishi2/items/8a7f530ad9b18b1f0b61)|実習コードをGoogle Colabで動かすための手順です。|
 |qiita記事|[「ディープラーニングの数学」９章補足　3値分類モデルの決定境界の表示](https://qiita.com/makaishi2/items/c8f6c2191529f9e1102c)|９章の例題で決定境界を表示するコードとその解説があります。|
-|twitter|[@makaishi2](https://twitter.com/makaishi2)|書籍に関連したつぶやきをretweetで紹介しています。|
+|twitter|[@makaishi2](https://twitter.com/makaishi2)|著者のツイッターアカウント。書籍に関連した情報発信とretweetが中心です。|
 |IBM Blog|[AI関連書籍三冊目を出版したIBM赤石雅典に聞く「AIと仕事と執筆」](https://www.ibm.com/blogs/solutions/jp-ja/data_science_and_ai_akaishi-san/)|旧勤務先のIBMのブログに著者のインタビュー記事が紹介されています。|
 
 
@@ -51,6 +51,7 @@ Notebookファイルのダウンロードをしたい場合は、「**Notebook�
 |Amazon|[Amazonレビュー](https://www.amazon.co.jp/product-reviews/4296102508/)||
 |読書メーター|[読書メーター 感想・レビュー](https://bookmeter.com/books/13706684)||
 |ハイブリッド型総合書店 honto|[hontoレビュー](https://honto.jp/netstore/pd-review_0629564342_191.html)||
+|有給医のライフハック記録|[書籍『最短コースでわかる　ディープラーニングの数学』を読了。【AI書籍の良著】](https://kataroh.hatenablog.com/entry/2022/01/21/193000)|「この書籍を通読し、ブラックボックスの中身が分かってきましたよ。」とのコメントをいただいています。|
 |からあげ様ブログ|[GW中に「ディープラーニングの数学」と「身近な数学」と「Google Colaboratory（Python）」でじっくり数学を復習しました](https://karaage.hatenadiary.jp/entry/2019/05/08/073000)|AI関連で有名なブロガーである「からあげ」様による書評です。|
 |日経XTECH 記者の目|[ディープラーニングは最低限の数学で分かる](https://tech.nikkeibp.co.jp/atcl/nxt/column/18/00138/041400268/)||
 |日経XTECH 連載記事|[機械学習のための数学入門](https://tech.nikkeibp.co.jp/atcl/nxt/column/18/00816/)||
