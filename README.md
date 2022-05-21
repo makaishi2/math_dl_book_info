@@ -13,7 +13,7 @@
 
 [韓国版](http://www.yes24.com/Product/Goods/89609761)
 
-[台湾版](http://www.eslite.com/product.aspx?pgid=1001113882844739)
+[台湾版](https://www.eslite.com/product/1001113882844739)
 
 ***
 
