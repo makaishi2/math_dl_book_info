@@ -56,7 +56,7 @@ Notebookファイルのダウンロードをしたい場合は、「**Notebook�
 |Amazon|[Amazonレビュー](https://www.amazon.co.jp/product-reviews/4296102508/)||
 |読書メーター|[読書メーター 感想・レビュー](https://bookmeter.com/books/13706684)||
 |ハイブリッド型総合書店 honto|[hontoレビュー](https://honto.jp/netstore/pd-review_0629564342_191.html)||
- |読書メモ: 最短コースでわかるディープラーニングの数学|https://zenn.dev/matsuchiyo/scraps/def5c5968aa2ae|matsuchiyo様の読書メモ。つまずいた箇所も含めて勉強の過程が細かく記録されています。本書で勉強する読者に参考になる点が多いかと思います。|
+ |Zenn|[読書メモ:最短コースでわかるディープラーニングの数学](https://zenn.dev/matsuchiyo/scraps/def5c5968aa2ae) | matsuchiyo様の読書メモ。つまずいた箇所も含めて勉強の過程が細かく記録されています。本書で勉強する読者に参考になる点が多いかと思います。|
 |レバテック　ブログ|[E資格の難易度や勉強方法、取得のメリットを徹底解説！](https://career.levtech.jp/guide/knowhow/article/697/)|E資格勉強法の解説の中で本書をご紹介いただいています。|
 |有給医のライフハック記録|[書籍『最短コースでわかる　ディープラーニングの数学』を読了。【AI書籍の良著】](https://kataroh.hatenablog.com/entry/2022/01/21/193000)|「この書籍を通読し、ブラックボックスの中身が分かってきましたよ。」とのコメントをいただいています。|
 |からあげ様ブログ|[GW中に「ディープラーニングの数学」と「身近な数学」と「Google Colaboratory（Python）」でじっくり数学を復習しました](https://karaage.hatenadiary.jp/entry/2019/05/08/073000)|AI関連で有名なブロガーである「からあげ」様による書評です。|
