@@ -65,15 +65,13 @@ Notebookファイルのダウンロードをしたい場合は、「**Notebook�
 |ITMedia|[機械学習／ディープラーニングの「数学」が学べるオススメ本](https://www.atmarkit.co.jp/ait/articles/2103/18/news023.html#utm_term=share_sp)|3冊のおすすめ本の筆頭にあげていただいています。|
 |キカガク公式ブログ|[【2020年版】初学者にオススメの機械学習参考書3選〜数学基礎編〜](https://blog.kikagaku.co.jp/2020/04/06/ai_math_books/)||
 |Yusuke Otomo様ブログ|[AWS Certified Machine Learning – Specialty に合格してきました](https://yomon.hatenablog.com/entry/2019/05/awscertml)||
-|カオカオ様ブログ|[G検定の勉強法](https://www.kaookaoo.com/gteststudymethod/)||
-|orangeitems様ブログ|[機械学習・ディープラーニングの学習を入門レベルで挫折しないために](https://www.orangeitems.com/entry/2019/07/30/174944)||
 |LWのサイゼリヤ|[機械学習入門書籍レビュー](https://bit.ly/3H6XZvj)|最近見つけた書評。褒めてるかけなしているかギリギリの線ですが、こういう風に読んでいる人もいるということをご紹介しておきます。|
 
-***
+---
 
 * [正誤訂正](errors.md)
 
 * [FAQ](faqs.md)
 
-***
+
 
